@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sugar",
+    "ingredients": [
+      "sugar"
+    ],
+    "instructions": [
+      "Put sugar on plate"
+    ],
+    "tags": [
+      "dessert"
+    ]
+  }
+]
