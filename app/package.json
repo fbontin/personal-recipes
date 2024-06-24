@@ -1,0 +1,15 @@
+{
+  "name": "personal-recipes",
+  "version": "1.0.0",
+  "description": "Personal recipe website and cli",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve --port=3000",
+    "build": "eleventy"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
