@@ -1,3 +1,17 @@
+:root {
+  --black: #000000ff;
+  --paynes-gray: #5d737eff;
+  --maize: #fff07cff;
+  --mint-cream: #f0f7eeff;
+  --cambridge-blue: #87bba2ff;
+}
+
 body {
   font-family: sans-serif;
+  background-color: var(--mint-cream);
+  color: var(--black);
+}
+
+a {
+  color: var(--black);
 }
