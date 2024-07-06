@@ -1,6 +1,7 @@
 ---
-title: Filips recipes
+title: Recept
 layout: base.njk
+templateEngineOverride: njk,md
 ---
 
-Some text idk
+{% include "recipelist.njk" %}
