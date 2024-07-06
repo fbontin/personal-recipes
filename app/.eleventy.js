@@ -1,6 +1,9 @@
-module.exports = _eleventyConfig => ({
-  dir: {
-    input: 'src',
-    output: 'public'
-  }
-});
+module.exports = eleventyConfig => {
+  eleventyConfig.addPassthroughCopy("./src/css");
+  return ({
+    dir: {
+      input: 'src',
+      output: 'public'
+    }
+  });
+};
