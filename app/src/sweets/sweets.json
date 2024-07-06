@@ -1,0 +1,5 @@
+{
+  "layout": "recipe",
+  "permalink": "/{{ page.fileSlug }}/",
+  "tags": "sweets"
+}
